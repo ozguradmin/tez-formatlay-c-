@@ -1,0 +1,5 @@
+{
+  "name": "Tez Formatlayıcı (APA 7 / İYYÜ)",
+  "description": "Akademik metinleri İYYÜ ve APA 7 kurallarına (Sol 4cm, Sağ 2.5cm, Blok Alıntılar vb.) göre düzenleyen, dilbilgisi hatalarını düzelten ve Docx olarak indirme imkanı sunan araç.",
+  "requestFramePermissions": []
+}
